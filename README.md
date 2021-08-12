@@ -4,4 +4,4 @@ It can be used by blind people to read online stuff and by teachers to teach man
 time.
 
 
-<img src="AutoBrialle_FinalPrototype.PNG" >
+ <img src="AutoBrialle_FinalPrototype.PNG" height="250" width="300">
